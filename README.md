@@ -13,11 +13,7 @@ Currently having fun with:
 
 - React JS
 - Typescript
-- Docker
 
 And Trying out some Mobile App Dev with:
 
 - React Native
-- Flutter
-
-
