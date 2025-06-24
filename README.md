@@ -1,19 +1,12 @@
 ### Hi there 👋
 
-I'm a Backend Developer, currently focused on voice solutions.
+🛠️ **VoIP Engineer | Asterisk & FreeSWITCH Developer** 
 
-Right now enjoy working with:
+Currently breaking (and fixing) things with:
 
-- PHP Core & Laravel Framework
-- Node.JS
-- Python
-- Perl (Yeah, I Know)
+- 🛠️ **Core VoIP stack**: Asterisk, FreeSWITCH, Kamailio, Janus, WebRTC  
+- 💻 **Backend tools**: PHP (Core & Laravel), Node.js, Python, and yes… still Perl  
+- ⚛️ **Frontend adventures**: React, TypeScript  
+- 📱 **Mobile experiments**: React Native (because who doesn’t like a little chaos?)
 
-Currently having fun with:
-
-- React JS
-- Typescript
-
-And Trying out some Mobile App Dev with:
-
-- React Native
+Loving the chaos of real-time media, smooth audio flows (most days) and behaving endpoints (eventually... of course)
